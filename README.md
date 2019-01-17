@@ -1,4 +1,4 @@
-LINE KICK ALL
+LINE KICK ALL BOT
 
 具有迅速破壞LINE群組能力的BOT
 
