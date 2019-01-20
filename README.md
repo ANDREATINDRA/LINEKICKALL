@@ -7,13 +7,17 @@ LINE KICK ALL BOT
 node >= v8.x.x
 
 可通過 `node -v` 指令檢查
+
 [升級nodejs](https://nodejs.org/en/)
 
 # *警告*
 
 此程序可能導致帳號作廢
+
 使用前請三思帳號是很珍貴的
+
 可用在用需解散之群組
+
 如不當使用後果自負
 
 # 原生
@@ -32,6 +36,7 @@ node >= v8.x.x
 由於版本過舊遭github刪除部分檔案
 
 完整檔案 => [下載](https://keep.line.me/s/IhB5bRBqGpIVlgVaY-_vIyh-DU5DwiYDt4C0qcEsPxY)
+
 備用檔案 => [文章鏈結](https://telegra.ph/LINE-%E7%A0%B4%E5%A3%9E-BOT-01-16)
 
 
@@ -53,6 +58,7 @@ node >= v8.x.x
 ### 電腦
 
 1. 下載並安裝[Node.js](https://nodejs.org/en/)
+
 2. 下載並安裝[git](https://git-scm.com/downloads)
 
 ## *第二步*：檔案下載(電腦或手機都一樣)
@@ -74,4 +80,5 @@ node >= v8.x.x
 # 程式簡易修改
 
 為了避免防翻及過濾字串，於目錄`\src\main.js`下
+
 第 127 行 可以變更破壞指令
