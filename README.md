@@ -12,17 +12,15 @@ node >= v8.x.x
 
 # *警告*
 
-此程序可能導致帳號作廢
-
-使用前請三思帳號是很珍貴的
-
-可用在用需解散之群組
-
-如不當使用後果自負
+> 此程序可能導致帳號作廢
+> 使用前請三思帳號是很珍貴的
+> 可用在用需解散之群組
+> 如不當使用後果自負
 
 # 原生
 
 前生 => [Line Alphat JS](https://github.com/alfathdirk/LineAlphatJS)
+
 作者 => [@alfathdirk](https://instagram.com/alfathdirk)
 
 # 修改內容
