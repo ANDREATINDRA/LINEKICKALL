@@ -53,8 +53,8 @@ node >= v8.x.x
 
 3. 安裝腳本
 
-- `apt install termux-api`
 - `pkg install git`
+- `pkg install unzip`
 
 ### 電腦
 
@@ -62,10 +62,22 @@ node >= v8.x.x
 
 2. 下載並安裝[git](https://git-scm.com/downloads)
 
-## *第二步*：檔案下載(電腦或手機都一樣)
+## *第二步*：檔案下載
 
-- `git clone git@github.com:Phyllis62418/LINEKICKALL.git`
+### Android 手機
+
+- `git clone https://github.com/Phyllis62418/LINEKICKALL.git`
+- `cd LINEKICKALL`
 - `unzip LINEKICKALL.zip`
+- `cd LINEKICKALL`
+
+### 電腦
+
+- `git clone https://github.com/Phyllis62418/LINEKICKALL.git`
+- `cd LINEKICKALL`
+- (視窗不要關)
+- 下載[7-ZIP](https://www.7-zip.org/download.html)
+- 自行解壓縮
 - `cd LINEKICKALL`
 
 ## *第三步*：程式運行(電腦或手機都一樣)
